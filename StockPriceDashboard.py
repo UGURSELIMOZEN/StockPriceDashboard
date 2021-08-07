@@ -7,8 +7,8 @@ st.write("""
 
 """)
 
-Tickers = pd.read_csv(r'C:\Users\Ugur\Desktop\Streamlit\Tickers.csv')
-
+#Tickers = pd.read_csv(r'C:\Users\Ugur\Desktop\Streamlit\Tickers.csv')
+Tickers = ('AAPL' ,'AMZN' , 'MSFT' , 'FB' , 'NFLX' , 'GOOGL')
 column_count_plot = st.sidebar.multiselect("STOCK TICKER  ",Tickers)
 
 norm = st.sidebar.checkbox('Normalize')
