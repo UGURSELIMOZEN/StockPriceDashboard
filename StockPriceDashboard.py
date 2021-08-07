@@ -7,7 +7,7 @@ st.write("""
 
 """)
 
-Tickers = pd.read_csv(r"C:\Users\Ugur\Desktop\Streamlit\Tickers.csv")
+Tickers = pd.read_csv(r'C:\Users\Ugur\Desktop\Streamlit\Tickers.csv')
 
 column_count_plot = st.sidebar.multiselect("STOCK TICKER  ",Tickers)
 
