@@ -24,7 +24,7 @@
 </a> 
 </p>
 
-[![Site](https://img.shields.io/badge/-Open Project-%23025E8C.svg?logo=matplotlib&logoColor=white)](https://stockpricedashboard.herokuapp.com/)
+[![Site](img alt="Open Project" src="https://img.shields.io/badge/-Open Project-%23025E8C.svg?logo=matplotlib&logoColor=white"](https://stockpricedashboard.herokuapp.com/)
 
 </br>
 
