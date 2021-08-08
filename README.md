@@ -4,7 +4,7 @@
 </br>
 <p>
 <a>
-<img alt="Streamlit" src="https://img.shields.io/badge/-Streamlit-FF4B4B?logo=Streamlit&logoColor=white">
+<img alt="Streamlit" src="https://img.shields.io/badge/-Made with Streamlit-FF4B4B?logo=Streamlit&logoColor=white">
 </a>
 <a>
 <img alt="Heroku" src ="https://img.shields.io/badge/-Heroku-0089D6?&logo=heroku&logoColor=ffffff">
