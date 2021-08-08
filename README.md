@@ -13,9 +13,8 @@
 <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white">
 </a>
 </p>
-
+</br>
 ##### Dashboard 1 with stock prices
 <img width="1120" heigth="720" alt="dashboard1" src="https://github.com/UGURSELIMOZEN/StockPriceDashboard/blob/main/dashboard1.JPG">
 ##### Dashboard 2 with normalized prices
-</br>
 <img width="1120" heigth="720" alt="dashboard2" src="https://github.com/UGURSELIMOZEN/StockPriceDashboard/blob/main/dashboard2.JPG">
