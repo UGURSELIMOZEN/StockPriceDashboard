@@ -24,7 +24,7 @@
 </a> 
 </p>
 
-[![Site]("Open Project"](https://stockpricedashboard.herokuapp.com/)
+[![Site](src = "https://img.shields.io/static/v1?label=Open Project&message=Open Project&color=orange")](https://stockpricedashboard.herokuapp.com/)
 
 </br>
 
