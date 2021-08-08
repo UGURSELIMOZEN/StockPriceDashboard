@@ -15,7 +15,6 @@
 </p>
 
 ##### Dashboard 1 with stock prices
-</br>
 <img width="1120" heigth="720" alt="dashboard1" src="https://github.com/UGURSELIMOZEN/StockPriceDashboard/blob/main/dashboard1.JPG">
 ##### Dashboard 2 with normalized prices
 </br>
