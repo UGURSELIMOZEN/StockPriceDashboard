@@ -21,8 +21,9 @@
 <a>
 <img alt="YFinance" src="https://img.shields.io/badge/-yfinance-%23e0982c.svg?logo=yfinance&logoColor=white">
 </a> 
-  
 </p>
+
+[![Site](https://img.shields.io/badge/Open Project-2ea44f?style=for-the-badge&logo=appveyor)](https://stockpricedashboard.herokuapp.com/)
 
 </br>
 
