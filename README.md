@@ -9,6 +9,9 @@
 <a>
 <img alt="Heroku" src ="https://img.shields.io/badge/-Deployed to Heroku-0089D6?&logo=heroku&logoColor=ffffff">
 </a>
+<a>
+<img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white">
+</a>
 </p>
 
 <img width="1440" alt="dashboard1" src="https://github.com/UGURSELIMOZEN/StockPriceDashboard/blob/main/dashboard1.JPG">
