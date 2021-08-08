@@ -24,7 +24,7 @@
 </a> 
 </p>
 
-[<img alt="Open Project" src = "https://img.shields.io/badge/Open%20Project-Streamlit-orange?style=for-the-badge&logo=appveyor">](https://stockpricedashboard.herokuapp.com/)
+[<img alt="Open Project" src = "https://img.shields.io/badge/Open%20Project-Stock%20Price%20Dashboard-orange?style=for-the-badge&logo=appveyor">](https://stockpricedashboard.herokuapp.com/)
 
 </br>
 
