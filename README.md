@@ -12,7 +12,18 @@
 <a>
 <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white">
 </a>
+<a>
+<img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
+</a>
+<a>
+<img alt="Pandas" src="https://img.shields.io/badge/-Pandas-%23150458.svg?logo=Pandas&logoColor=white">
+</a>  
+<a>
+<img alt="YFinance" src="https://img.shields.io/badge/-yfinance-%23e0982c.svg?logo=yfinance&logoColor=white">
+</a> 
+  
 </p>
+
 </br>
 
 ##### ⚡ Dashboard 1 with stock prices
