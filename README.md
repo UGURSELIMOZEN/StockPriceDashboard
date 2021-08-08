@@ -1,5 +1,5 @@
 # StockPriceDashboard
-
+<br>
 </br>
 ### In this project , I developed Stock Price Dashboard with Python and Streamlit , deployed  to Heroku using git.
 
