@@ -3,6 +3,8 @@
 #### • In this project , developing of  Stock Price Dashboard made with Python and Streamlit after that deployed to Heroku using git.
 </br>
 <p>
+  
+<a href="https://lgtm.com/projects/g/UGURSELIMOZEN/StockPriceDashboard/context:python"><img alt="Language grade: Python" src="https://img.shields.io/lgtm/grade/python/g/UGURSELIMOZEN/StockPriceDashboard.svg?logo=lgtm&logoWidth=18"/></a>
 <a>
 <img alt="Streamlit" src="https://img.shields.io/badge/-Made with Streamlit-FF4B4B?logo=Streamlit&logoColor=white">
 </a>
