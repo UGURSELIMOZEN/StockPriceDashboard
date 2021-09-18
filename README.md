@@ -43,7 +43,7 @@
 </p>
 
 [<img alt="Open Project" src = "https://img.shields.io/badge/Open%20Project-Stock%20Price%20Dashboard-orange?style=for-the-badge&logo=appveyor">](https://stockpricedashboard.herokuapp.com/)
-
+##### *It may take a while to run app from Heroku server which I use free dyno hours for every months , please wait until it runs !
 </br>
 
 ##### ⚡ Dashboard 1 with stock prices
